@@ -72,4 +72,6 @@ git chekout master
 git branch <branch_name>
 
 
+#### Слияние веток
 
+~~информация ос лиянии веток~~
