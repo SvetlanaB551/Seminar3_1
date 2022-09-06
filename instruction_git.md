@@ -70,3 +70,5 @@ git chekout master
 для создания новой ветки используется команда:
 
 git branch <branch_name>
+
+### слияние веток
