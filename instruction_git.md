@@ -79,6 +79,8 @@ git branch <branch_name>
 
 git checkout [branch_name] 
 
+указатель HEAD показывает в какой ветке работает пользователь
+
 ### Слияние веток
 
 
