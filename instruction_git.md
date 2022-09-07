@@ -90,3 +90,4 @@ git checkout [branch_name]
 для того чтобы влить ветку в текущую нужно использовать команду:
 
 git merge <branch_name>
+ 
